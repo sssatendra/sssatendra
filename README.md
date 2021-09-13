@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sssatendra" alt="sssatendra" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@satendrakumarrr" target="blank"><img src="https://img.shields.io/twitter/follow/@satendrakumarrr?logo=twitter&style=for-the-badge" alt="@satendrakumarrr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/satendrakumarrr" target="blank"><img src="https://img.shields.io/twitter/follow/satendrakumarrr?logo=twitter&style=for-the-badge" alt="@satendrakumarrr" /></a> </p>
 
 - 🔭 I’m currently working on [Flipkart-Clone](https://flipkart-clone-1a222.web.app/)
 
